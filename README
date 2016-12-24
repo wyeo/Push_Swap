@@ -1,0 +1,21 @@
+       *******   *******  ********** **   *******   ****     **  ********
+      **/////** /**////**/////**/// /**  **/////** /**/**   /** **////// 
+	  **     //**/**   /**    /**    /** **     //**/**//**  /**/**       
+	  /**      /**/*******     /**    /**/**      /**/** //** /**/*********
+	  /**      /**/**////      /**    /**/**      /**/**  //**/**////////**
+	  //**     ** /**          /**    /**//**     ** /**   //****       /**
+	   //*******  /**          /**    /** //*******  /**    //*** ******** 
+	     ///////   //           //     //   ///////   //      /// ////////
+
+
+-c : Affiche les couleurs. 
+
+-v : Affiche l'etat de la pile a chaque operaion. 
+
+-l : Affiche le nombre d'elements a trier.
+
+-b : Compte le nombre d'operation.
+
+-a : Affiche le contenu de la Pile A.
+
+-d : Affiche la definition de chaque operation.
